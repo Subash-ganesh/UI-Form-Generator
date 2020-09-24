@@ -3,8 +3,11 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 Steps:
 
 1.Clone the Project
+
 2.Navigate to path UI-Form-Genertor/ui-form-builder
+
 3.npm install
+
 4.npm start
 
 
